@@ -34,6 +34,11 @@ Mined CGM data of a patient to analyze blood sugar levels to automate insulin in
 
 1. Used percentage values of the amount of time a patient's glucose levels lied in a particular range (such as 70-100 mg/L,...) to analyze overall health condition of the patient.
 
+2. Plotted the graph to show these percentage values using matplotlib
+
+![image](https://user-images.githubusercontent.com/64389100/138208737-2e33ca1b-775e-4749-a949-73b146e51c51.png)
+
+
 2. Stored the results in the 'Results_EDA.csv' file for two different reading modes - Automatic and Manual
 
 ## STEP 3: Logistic Regression to build a baseline classification model
