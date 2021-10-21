@@ -3,10 +3,12 @@ Mined CGM data of a patient to analyze blood sugar levels to automate insulin in
 
 ## Tools Used:
 1. Python 
-  1. Numpy
-  2. Pandas
-  3. Sklearn
-  4. Timedelta
+2. Numpy
+3. Keras
+4. TensorFlow (backend)
+5. Pandas
+6. Sklearn
+7. Timedelta
 
 # Quick Summary:
 
